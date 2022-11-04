@@ -1,0 +1,18 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Mini curso docker - UNAERP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "unaerp",
+    "node"
+  ],
+  "author": "Weslley Fratini",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
