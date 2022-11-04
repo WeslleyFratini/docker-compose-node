@@ -5,6 +5,3 @@ services:
     container_name: api_backend
     ports:
       - '4000:4000'
-    volumes:
-      - ./api:/app
-      - ./app/node_modules
