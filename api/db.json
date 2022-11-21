@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Maria"
+    },
+    {
+      "id": 1,
+      "name": "Weslley"
+    },
+    {
+      "id": 2,
+      "name": "Sonaldo"
+    },
+    {
+      "id": 3,
+      "name": "João"
+    },
+    {
+      "id": 4,
+      "name": "Mysia"
+    }
+  ],
+  "products": [
+    {
+      "id": 0,
+      "name": "Esponja"
+    },
+    {
+      "id": 1,
+      "name": "Oculos"
+    },
+    {
+      "id": 2,
+      "name": "Sapato"
+    }
+  ]
+}
